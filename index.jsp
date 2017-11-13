@@ -1,7 +1,7 @@
 <html>
 
 <head>
-	<title>Bulletin Board</title>
+	<title>Bulletin Board - add title</title>
 </head>
 
 <body>
