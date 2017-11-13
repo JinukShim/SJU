@@ -1,7 +1,7 @@
 <html>
 
 <head>
-	<title>Bulletin Board - add title</title>
+	<title>Bulletin Board - add title - mod title</title>
 </head>
 
 <body>
